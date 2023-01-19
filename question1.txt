@@ -1,0 +1,20 @@
+In html links are the brigde that is used to connect two pages oe two websites
+
+by default they are highlighted in blue color
+
+they are placed by using <a> tag
+
+after that href keyword is used to input the target link to which the traffic has to be diverted
+
+then there are 4 types  that how we can open the link
+
+1._ self: it is the default one it opens the docoment in the same window 
+
+2._blank: it opens the docoment in new window
+
+3._parent: it opens th docoment in the parnet frame
+
+4._top: it opens the docoment in the full body of the window 
+
+eg
+<a href="https://www,xyz.com" target="_top">hello </a>
